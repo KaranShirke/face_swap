@@ -1,4 +1,5 @@
 dlib==19.23.0
+dlib.egg==info
 gunicorn==20.1.0
 Flask==2.0.3
 numpy==1.22.2
